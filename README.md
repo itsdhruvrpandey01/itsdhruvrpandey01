@@ -24,3 +24,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsdhruvrpandey01&" alt="itsdhruvrpandey01" /></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFA600&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/itsdhruvrpandey01)
+<p align="left"><img src="https://komarev.com/ghpvc/?username=itsdhruvrpandey01" alt="SwanandBhuskute"/></p>
