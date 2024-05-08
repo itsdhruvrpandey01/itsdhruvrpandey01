@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFA600&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+Dhruv+Pandey+Here.;👨‍💻Aspiring+Software+Engineer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;)](https://github.com/itsdhruvrpandey01)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFA600&size=60&center=true&vCenter=true&width=1200&height=100&lines=Hello+%F0%9F%91%8B+Dhruv+Pandey+Here.;👨‍💻Aspiring+Software+Engineer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;)](https://github.com/itsdhruvrpandey01)
+
 <h1 align="center">Hi 👋, I'm Dhruv Pandey</h1>
 <h3 align="center">A passionate Java developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
@@ -23,5 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsdhruvrpandey01&show_icons=true&locale=en" alt="itsdhruvrpandey01" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsdhruvrpandey01&" alt="itsdhruvrpandey01" /></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFA600&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/itsdhruvrpandey01)
-<p align="left"><img src="https://komarev.com/ghpvc/?username=itsdhruvrpandey01" alt="SwanandBhuskute"/></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFA600&size=60&center=true&vCenter=true&width=1200&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/itsdhruvrpandey01)
+<p align="left"><img src="https://komarev.com/ghpvc/?username=itsdhruvrpandey01" alt="itsdhruvrpandey01"/></p>
